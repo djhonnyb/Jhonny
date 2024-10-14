@@ -1,4 +1,4 @@
-<h1 align="center">Yaemori Bot - MD 🌱</h1>
+<h1 align="center"> Bot - MD 🌱</h1>
 
 ![Yaemori](https://telegra.ph/file/d29e7f61a1dc85564ea5c.jpg)
 
@@ -13,21 +13,6 @@
  <summary><b> 🌴 Info Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
-
-</details>
-
----
-
-### **`💭 Contáctanos`**
-
-<details>
-<summary><b> 🌹 Contáctos</b></summary>
-
-* theyaemoribot@gmail.com
-* https://wa.me/573218138672
-* https://wa.me/5351524614
-* https://wa.me/573205853665
-* https://wa.me/573106909511
 
 </details>
 
